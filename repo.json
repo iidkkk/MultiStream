@@ -1,8 +1,0 @@
-{
-  "name": "MultiStream",
-  "version": 2,
-  "sources": [
-    "https://raw.githubusercontent.com/iidkkk/MultiStream/main/sources/CuevanaProvider.kt",
-    "https://raw.githubusercontent.com/iidkkk/MultiStream/main/sources/AnimeFLVProvider.kt"
-  ]
-}
