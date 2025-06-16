@@ -1,0 +1,11 @@
+{
+  "name": "MultiStream",
+  "description": "Repositorio de extensiones para CloudStream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    {
+      "name": "AnimeFLV",
+      "path": "animeflv"
+    }
+  ]
+}
