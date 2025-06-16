@@ -1,0 +1,15 @@
+{
+  "name": "MultiStream",
+  "description": "Repositorio de extensiones reales para CloudStream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    {
+      "name": "Cuevana",
+      "path": "cuevana"
+    },
+    {
+      "name": "AnimeFLV",
+      "path": "animeflv"
+    }
+  ]
+}
