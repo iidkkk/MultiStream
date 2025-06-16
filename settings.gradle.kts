@@ -1,7 +1,3 @@
-pluginManagement {
-    repositories {
-        gradlePluginPortal()
-        google()
-        mavenCentral()
-    }
-}
+rootProject.name = "MultiStream"
+
+include(":animeflv")
